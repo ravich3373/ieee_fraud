@@ -1,0 +1,17 @@
+making data workable
+	missings values,
+	datatypes of columns,
+	cateogerical or countinoues vars,
+	
+	missings values:
+		a new column indicating value is missing or not (boolean).
+		fill the missing position randomly, every run with possible vals for the variable.
+	datatypes of columns:
+		cats to int rest float
+		
+	cats:
+		identities:
+			id_12: found,notfound
+			id_13: ints
+			id_14: -ve ints
+			id_15: found, new, unknown

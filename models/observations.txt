@@ -1,0 +1,9 @@
+jupm in loss near end, could be the data distribution is different in the end.
+why doesnt RBN layer work with HOOK
+
+
+
+
+
+learnings:
+if you are adding is_nan cols, add for all cols, even if they do not have any missing values
